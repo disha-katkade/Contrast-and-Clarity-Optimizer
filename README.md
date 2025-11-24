@@ -1,5 +1,5 @@
 
-# **Contrast and Clarity Optimizer**
+# **Contrast and Clarity Optimizer👁️👁️ **
 
 Contrast and Clarity Optimizer is a beginner-friendly computer vision project that enhances real-time webcam video using fundamental OpenCV techniques. The system improves visibility by applying grayscale conversion, histogram equalization, and Canny edge detection. It also allows users to save enhanced frames as images and automatically records the entire enhanced video session.
 
@@ -53,11 +53,14 @@ This project demonstrates the application of basic computer vision operations:
 **How to Run▶️**
 
 1. Install dependencies:
+```
 pip install -r requirements.txt
+```
 
 2. Start the application:
+```
 python src/algorithm.py
-
+```
 3. Controls:
 Press 's' to save the current enhanced frame as an image
 Press 'q' to quit the program
