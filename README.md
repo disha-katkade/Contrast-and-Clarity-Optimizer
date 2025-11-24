@@ -62,10 +62,10 @@ pip install -r requirements.txt
 python src/algorithm.py
 ```
 3. Controls:
-Press 's' to save the current enhanced frame as an image
-Press 'q' to quit the program
+- Press 's' to save the current enhanced frame as an image
+- Press 'q' to quit the program
 
-The enhanced video is automatically saved as a file.
+4. The enhanced video is automatically saved as a file.
 
 ---
 
