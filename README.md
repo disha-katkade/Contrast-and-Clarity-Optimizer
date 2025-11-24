@@ -1,5 +1,5 @@
 
-# **Contrast and Clarity Optimizer👁️👁️ **
+# **Contrast and Clarity Optimizer👁️👁️**
 
 Contrast and Clarity Optimizer is a beginner-friendly computer vision project that enhances real-time webcam video using fundamental OpenCV techniques. The system improves visibility by applying grayscale conversion, histogram equalization, and Canny edge detection. It also allows users to save enhanced frames as images and automatically records the entire enhanced video session.
 
